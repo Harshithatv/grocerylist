@@ -1,0 +1,57 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+body{
+    background-image: url(../images/article4958.jpg);
+    background-size: cover;
+   
+    
+}
+
+.content-table{
+    border-collapse:collapse;
+    margin: 40px 0;
+    font-size: 0.9em;
+    min-width: 50%;
+    border: 1px solid black;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background:rgba(0, 0, 0, 0.5);
+    margin-top: 1%;
+    
+    
+    
+}
+.content-table th{
+    background-color: rgb(113, 202, 29);
+    color:black;
+    text-align: center;
+    font-weight: bold;
+    border-left:1px solid black ;
+    padding: 12px 15px;
+   
+}
+.content-table td{
+    padding: 12px 15px;
+    border-left:1px solid black ;
+    border-bottom:1px solid black ;
+    color: white;
+    font-size: large;
+    
+}
+h1{
+    text-align: center;
+    margin-top: 1%;
+}
+.button{
+    background-color: green;
+    width: 10%;
+    height: 40px;
+    text-align: center;
+    margin-left: 45%;
+    margin-top: 1%;
+    color: white;
+}

@@ -1,0 +1,85 @@
+{"Grocery":[
+    {
+        "SLNO":"1",
+        "NAME":"Rice",
+        "QUANTITY":"10",
+        "UNIT":"Kg",
+        "DEPARTMENT":"Cereals",
+        "NOTES":"Matta"
+
+    },
+   { 
+    "SLNO":"2",
+    "NAME":"Milk",
+    "QUANTITY":"1",
+    "UNIT":"Litre",
+    "DEPARTMENT":"Dairy",
+    "NOTES":"Milma"
+
+   },
+   {
+    "SLNO":"3",
+    "NAME":"Cocunut Oil",
+    "QUANTITY":"1",
+    "UNIT":"Litre",
+    "DEPARTMENT":"Oil",
+    "NOTES":"Bottle Packed"
+   },
+   {
+    "SLNO":"4",
+    "NAME":"Onion",
+    "QUANTITY":"1",
+    "UNIT":"Kg",
+    "DEPARTMENT":"Vegetables",
+    "NOTES":"Medium size"
+   },
+   {
+    "SLNO":"5",
+    "NAME":"Potato",
+    "QUANTITY":"1",
+    "UNIT":"Kg",
+    "DEPARTMENT":"Vegetables",
+    "NOTES":"Medium size"
+   },
+   {
+    "SLNO":"6",
+    "NAME":"Apple",
+    "QUANTITY":"2",
+    "UNIT":"Kg",
+    "DEPARTMENT":"Fruits",
+    "NOTES":"Red"
+   },
+   {
+    "SLNO":"7",
+    "NAME":"Tomato",
+    "QUANTITY":"1",
+    "UNIT":"Kg",
+    "DEPARTMENT":"Vegetables",
+    "NOTES":"Fresh"
+   },
+   {
+    "SLNO":"8",
+    "NAME":"Salt",
+    "QUANTITY":"1",
+    "UNIT":"Kg",
+    "DEPARTMENT":"Salt",
+    "NOTES":"Tata Salt"
+   },
+   {
+    "SLNO":"9",
+    "NAME":"Soap",
+    "QUANTITY":"2",
+    "UNIT":"Nos",
+    "DEPARTMENT":"Personal Care",
+    "NOTES":"Pears"
+   },
+   {
+    "SLNO":"10",
+    "NAME":"Choclates",
+    "QUANTITY":"5",
+    "UNIT":"Nos",
+    "DEPARTMENT":"Choclates",
+    "NOTES":"Dairy Milk"
+   }
+]
+}
